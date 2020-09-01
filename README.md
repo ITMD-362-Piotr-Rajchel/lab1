@@ -1,1 +1,2 @@
-# lab1
+# Lab 1 
+ITMD-362 Fall 2020
